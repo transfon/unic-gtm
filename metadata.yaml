@@ -1,0 +1,5 @@
+homepage: "https://www.uniconsent.com"
+documentation: "https://www.uniconsent.com/docs"
+versions:
+  - sha: 1ae6805ed1b66c0839f724d18841c6798aebd86d
+    changeNotes: Initial release.
